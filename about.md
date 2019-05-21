@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a final year undergraduate student, studying Computer Science and Engineering at IIT Kharagpur. I'm enrolled in Dual Degree (B. Tech + M. Tech) course.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Love playing Tennis
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[pc44800@gmail.com](mailto:pc44800@gmail.com)
