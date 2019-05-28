@@ -9,4 +9,7 @@ I spent my first week learning it, and then proceeded with reading Logbay's code
 [A tour of Go](https://tour.golang.org/list) and [Go by Examples](https://gobyexample.com)
 After completing the above two, I did some exercises from: [Gophercises](https://gophercises.com)
 
+Awesome article for getting started with unit testing in go:
+[Writing unit tests - alex ellis' blog](https://blog.alexellis.io/golang-writing-unit-tests/)
+
 I still have a lot to learn and will keep this post updated, writing how I went on doing it.
